@@ -7,8 +7,6 @@ My Name is Soham Singh Yadav and I am on my journey to become an awesome develop
 
 ## 🔧Technologies and Tools
 
-*****
-
 ![python](https://img.shields.io/badge/Code-Python-brightgreen?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Code-Flask-brightgreen?logo=Flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-Javascript-brightgreen?logo=javascript&logoColor=white)

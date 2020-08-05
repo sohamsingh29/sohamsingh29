@@ -11,7 +11,6 @@
 [![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamsingh29)](https://github.com/sohamsingh29/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=sohamsingh29&color=brightgreen&label=Visitors)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsingh29)](https://github.com/sohamsingh29/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=sohamsingh29&color=brightgreen&label=Visitors)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsingh29)](https://github.com/sohamsingh29/github-readme-stats)
 
 

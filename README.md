@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Soham Singh Yadav
-### A Javascript and Python Developer &#xx23EC
+## Hi there 👋 I'm Soham Singh Yadav 💻
+### A Javascript and Python 🐍 Developer 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 <!--
 **sohamsingh29/sohamsingh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m happy to collaborate
 - 💬 Ask me about **⚛️[ReactJs](https://github.com/facebook/react)** and **MERN** related topics
-<br />**<a href="https://www.linkedin.com/in/sohamsinghyadav/"><img  src="https://cdn.iconscout.com/icon/free/png-256/linkedin-160-461814.png" alt="Linkedin Profile" width="35" height="35" /> </a>** 
-- ⚡ Fun fact: ...
+[![Linkedin](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/sohamsinghyadav/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsingh29&theme=dark)](https://github.com/sohamsingh29/github-readme-stats) [![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamsingh29&show_icons=true&theme=dark)](https://github.com/sohamsingh29/github-readme-stats)
 
 

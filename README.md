@@ -1,9 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/sohamsingh29/sohamsingh29/master/wave.gif" width="30px">
 
-My Name is Soham Singh Yadav and I am on my journey to become an awesome developer. I can be found at ![linkedin]([2.2])
-
-<!--[![Linkedin](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/sohamsinghyadav/) -->
-![](https://komarev.com/ghpvc/?username=sohamsingh29&color=brightgreen&label=Visitors)
+My Name is Soham Singh Yadav and I am on my journey to become an awesome developer.I am a college student from India  I can be found at [![linkedin][3.2]](https://www.linkedin.com/in/sohamsinghyadav/)
 
 ## 🔧Technologies and Tools
 
@@ -27,9 +24,12 @@ My Name is Soham Singh Yadav and I am on my journey to become an awesome develop
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamsingh29&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soham's GitHub Stats" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=sohamsingh29&color=brightgreen&label=Visitors)
+
+
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/sohamsingh29/sohamsingh29/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->

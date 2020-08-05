@@ -8,7 +8,7 @@
 <!--[![Linkedin](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/sohamsinghyadav/) -->
 
 ### 📈Github Stats
-<hr>
+*****
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsingh29&theme=dracula)](https://github.com/sohamsingh29/github-readme-stats) [![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohamsingh29&show_icons=true&theme=dracula)](https://github.com/sohamsingh29/github-readme-stats)
 
 
